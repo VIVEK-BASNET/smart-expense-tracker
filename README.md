@@ -32,3 +32,7 @@ A responsive expense-tracking application built using HTML, CSS and JavaScript.
 ## Author
 
 Vivek Basnet
+
+## Live Demo
+
+[Open Smart Expense Tracker](https://vivek-basnet.github.io/smart-expense-tracker/)
